@@ -4,7 +4,7 @@ This repository contains a custom build of OpenCV compiled from source using CMa
 integrated with a Qt-based C++ application on Windows 10.
 
 ### Key Technical Aspects
-- Built OpenCV (3.x/4.x) fully from source using **CMake**
+- Built OpenCV (4.1.2) fully from source using **CMake**
 - Configured build flags, modules, and dependencies manually
 - Integrated OpenCV with **Qt** (C++), handling include paths and linker settings
 - Used both Release/Debug configurations
